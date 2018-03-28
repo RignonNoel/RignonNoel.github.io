@@ -17,10 +17,8 @@ about: True # set to False or comment line if you want to remove the "How to use
 name: Alan Doe
 tagline: Full Stack Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: "J'ai eu la chance de développer un large réseau et de faire valoriser mes compétences personnelles et techniques au travers de différents postes de supervision et de direction dans des entreprises de taille variées. Je suis aujourd'hui très à l'aise dans le fait de m'engager dans des projets d'envergure ou je peux donner libre cours à mes compétences pluridisciplinaires en analyse de risque, en analyse de besoin, en architecture, en conception et même en supervision d'équipe.<br/><br/>
+J'aime évoluer dans des milieux agiles ayant une grande conscientisation quant à la qualité des produits développés et aux démarches d'amélioration continue et je me plais énormément à intégrer ces concepts dans des entreprises jeunes qui ne bénéficient que d'une marge de temps et de compétences étroite. Je cherche des milieux innovant et m'offrant des défis personnels nombreux pour me surpasser."
 
 #sidebar links
 email: hello@webjeda.com
