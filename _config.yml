@@ -14,19 +14,18 @@ about: True # set to False or comment line if you want to remove the "How to use
 
 
 #Profile information
-name: Alan Doe
-tagline: Full Stack Developer
+name: Noël Rignon
+tagline: Développeur Full Stack
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: "J'ai eu la chance de développer un large réseau et de faire valoriser mes compétences personnelles et techniques au travers de différents postes de supervision et de direction dans des entreprises de taille variées. Je suis aujourd'hui très à l'aise dans le fait de m'engager dans des projets d'envergure ou je peux donner libre cours à mes compétences pluridisciplinaires en analyse de risque, en analyse de besoin, en architecture, en conception et même en supervision d'équipe.<br/><br/>
 J'aime évoluer dans des milieux agiles ayant une grande conscientisation quant à la qualité des produits développés et aux démarches d'amélioration continue et je me plais énormément à intégrer ces concepts dans des entreprises jeunes qui ne bénéficient que d'une marge de temps et de compétences étroite. Je cherche des milieux innovant et m'offrant des défis personnels nombreux pour me surpasser."
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+email: rignon.noel@gmail.com
+phone: (514) 980-3840
+website: rignonnoel.com #do not add http://
+linkedin: rignonnoel
+github: RignonNoel
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar

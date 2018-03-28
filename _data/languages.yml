@@ -1,9 +1,9 @@
 - language:
+  idiom: Français
+  level: Langue natale
+- language:
   idiom: English
-  level: Native
+  level: Compétence professionnelle
 - language:
-  idiom: French
-  level: Professional
-- language:
-  idiom: Spanish
-  level: Professional
+  idiom: Italiano
+  level: Notions élémentaires
