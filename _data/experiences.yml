@@ -1,28 +1,73 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  role: Co-fondateur
+  time: 2018 - Present
+  company: 9371-3378 Quebec Inc, Montréal
+  details: ""
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Manageur principal
+  time: Janvier 2017 - Septembre 2017
+  company: HomeBeaver, Montréal
+  details: "Supervision d'une équipe de 11 personnes constituée de développeurs logiciels, de chercheurs et d'agent en support client.<br/>
+<br/>
+En charge de l'assurance qualité et de la mise en place d'une méthodologie Scrum:<br/>
+ - Mise en place d'une approche Scrum<br/>
+ - Maintien des sprint planning et review<br/>
+<br/>
+Analyse des besoins internes et études des différentes idées d'améliorations.<br/>
+ - Maintien des priorités entre le CTO et l'équipe de développement<br/>
+ - Revue de code pour certains services<br/>
+ - Revue QA sur les livrables des sprints<br/>
+<br/>
+Conception et analyse pour les projets de plus grandes envergures.<br/>"
 - experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Directeur technique
+  time: Juin 2016 - Décembre 2016
+  company: Joii, Montréal
+  details: "Développement de solution interne:<br/>
+ - API de facturation basé sur Stripe<br/>
+ - Site corporatif pour gestion des ventes (logiciel en mode SAAS) et des comptes utilisateurs<br/>
+ - Site promotionnel<br/>
+<br/>
+Déploiement et configuration de l'infrastructure interne:<br/>
+ - Service ODOO<br/>
+ - MédiaWiki<br/>
+ - SSL, DNS, droit d'accès, création et gestion de backup automatisé<br/>
+<br/>
+Voici une vidéo promotionnel du Centech faite par la BNC ou le CEO de Joii me remercie de mon implication (1:08)<br/>
+<iframe height='315' width='100%' src='https://www.youtube.com/embed/ZI5QsNHxpPI' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>"
+- experience:
+  role: Consultant développement logiciel
+  time: Avril 2016 - Juillet 2016
+  company: Homebeaver, Montréal
+  details: "Développement d'une application web permettant de dessiner une courbe et de créer une série de données d’échantillonnage à partir de cette dernière.<br/>
+<br/>
+Création d'un banc de test a l'aide d'un Raspberry pi pour contrôler une électropompe  à partir du module GPIO et des données d’échantillonnage fournis en entrée du système.<br/>
+<br/>
+Vérification et documentation ou internes des livrables logiciels du  sous-traitants (test d'acceptation au travers d'une simulation d'environnement).<br/>
+<br/>
+Analyse des besoins et de l'environnement d'un client. Conception d'une architecture permettant d'adapter notre module à son infrastructure existante tout en continuant à prendre les améliorations du projet initialement développer par Homebeaver.<br/>"
+- experience:
+  role: Auxiliaire de recheche
+  time: Janvier 2016 - Avril 2016
+  company: Maison Logiciel Libre (ÉTS), Montréal
+  details: "Mentorat de plusieurs équipes de bénévoles dans le cadre de contributions sur des projets de logiciel libre.<br/>
+<br/>
+Initiation et supports de plusieurs projets en logiciel libre à enjeux sociaux pour des associations de Montréal.<br/>
+<br/>
+ - Introduction au monde du logiciel libre et de l'open-source<br/>
+ - Intégration aux bonnes pratiques du logiciel libre<br/>
+ - Les différents moyens de contribuer<br/>
+ - Aide au développement : Python, Django, PHP, SQL, GIT, JS<br/>
+ - Intégrations aux outils de CI : Travis, Coveralls, Waffle<br/>
+<br/>
+Promotion de l'entité auprès de partenaires d'affaires<br/>
+Participation à des groupes de Meetups<br/>
+Organisation d'événement collaboratif (Hacknight, journée de contribution, rencontre avec le client)<br/>"
+- experience:
+  role: Consultant développement logiciel
+  time: Janvier 2016 - Avril 2016
+  company: Centech (ÉTS), Montréal
+  details: "Mentorat d'un étudiant dans le cadre de son stage au Centech.<br/>
+Analyse des besoins du client et formulation de solution.<br/>
+Revue de code et améliorations continue.<br/>
+Analyse et conception d'interface utilisateurs.<br/>"
