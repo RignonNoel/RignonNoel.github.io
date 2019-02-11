@@ -1,73 +1,73 @@
 - experience:
-  role: Co-fondateur
+  role: Co-Founder
   time: 2018 - Present
-  company: 9371-3378 Quebec Inc, Montréal
+  company: 9371-3378 Québec Inc, Montréal
   details: ""
 - experience:
-  role: Manageur principal
-  time: Janvier 2017 - Septembre 2017
+  role: Lead manager
+  time: January 2017 - September 2017
   company: HomeBeaver, Montréal
-  details: "Supervision d'une équipe de 11 personnes constituée de développeurs logiciels, de chercheurs et d'agent en support client.<br/>
+  details: "Supervision of a team of 11 people made up of software developers, researchers and customer support agent.<br/>
 <br/>
-En charge de l'assurance qualité et de la mise en place d'une méthodologie Scrum:<br/>
- - Mise en place d'une approche Scrum<br/>
- - Maintien des sprint planning et review<br/>
+In charge of quality assurance and the implementation of a Scrum methodology:<br/>
+ - Integration of a Scrum approach<br/>
+ - Management of sprint planning and review<br/>
 <br/>
-Analyse des besoins internes et études des différentes idées d'améliorations.<br/>
- - Maintien des priorités entre le CTO et l'équipe de développement<br/>
- - Revue de code pour certains services<br/>
- - Revue QA sur les livrables des sprints<br/>
+Analysis of internal needs and studies of different ideas for improvement.<br/>
+ - Maintaining Priorities Between the CTO and the Development Team<br/>
+ - Code review for some services<br/>
+ - QA review of the sprints deliverables<br/>
 <br/>
-Conception et analyse pour les projets de plus grandes envergures.<br/>"
+Design and analysis for larger projects.<br/>"
 - experience:
-  role: Directeur technique
+  role: CTO
   time: Juin 2016 - Décembre 2016
   company: Joii, Montréal
-  details: "Développement de solution interne:<br/>
- - API de facturation basé sur Stripe<br/>
- - Site corporatif pour gestion des ventes (logiciel en mode SAAS) et des comptes utilisateurs<br/>
- - Site promotionnel<br/>
+  details: "Internal solution development:<br/>
+ - Billing API based on Stripe<br/>
+ - Corporate website for sales management (software in SAAS mode) and user accounts<br/>
+ - Promotional website<br/>
 <br/>
-Déploiement et configuration de l'infrastructure interne:<br/>
- - Service ODOO<br/>
+Deploying and configuring the internal infrastructure:<br/>
+ - ODOO service<br/>
  - MédiaWiki<br/>
- - SSL, DNS, droit d'accès, création et gestion de backup automatisé<br/>
+ - SSL, DNS, access permissions, backups managements<br/>
 <br/>
-Voici une vidéo promotionnel du Centech faite par la BNC ou le CEO de Joii me remercie de mon implication (1:08)<br/>
+Here is a promotional video of the Centech made by the BNC where the CEO of Joii thanks me for my involvement (1:08)<br/>
 <iframe height='315' width='100%' src='https://www.youtube.com/embed/ZI5QsNHxpPI' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>"
 - experience:
-  role: Consultant développement logiciel
-  time: Avril 2016 - Juillet 2016
+  role: Software consultant
+  time: April 2016 - July 2016
   company: Homebeaver, Montréal
-  details: "Développement d'une application web permettant de dessiner une courbe et de créer une série de données d’échantillonnage à partir de cette dernière.<br/>
+  details: "Development of a web application create samples of test data.<br/>
 <br/>
-Création d'un banc de test a l'aide d'un Raspberry pi pour contrôler une électropompe  à partir du module GPIO et des données d’échantillonnage fournis en entrée du système.<br/>
+Creation of a test bench using a Raspberry pi to control an electric pump from the GPIO module and sampling data provided at the input of the system.<br/>
 <br/>
-Vérification et documentation ou internes des livrables logiciels du  sous-traitants (test d'acceptation au travers d'une simulation d'environnement).<br/>
+Verification and internal documentation of the software deliverables of the subcontractors (acceptance test through a simulation environment).<br/>
 <br/>
-Analyse des besoins et de l'environnement d'un client. Conception d'une architecture permettant d'adapter notre module à son infrastructure existante tout en continuant à prendre les améliorations du projet initialement développer par Homebeaver.<br/>"
+Analysis of the needs and environment of a customer. Design of an architecture to adapt our module to its existing infrastructure while continuing to take the project improvements initially developed by Homebeaver.<br/>"
 - experience:
-  role: Auxiliaire de recheche
-  time: Janvier 2016 - Avril 2016
+  role: Research assistant
+  time: January 2016 - April 2016
   company: Maison Logiciel Libre (ÉTS), Montréal
-  details: "Mentorat de plusieurs équipes de bénévoles dans le cadre de contributions sur des projets de logiciel libre.<br/>
+  details: "Mentoring of several volunteer teams as part of contributions on free software projects.<br/>
 <br/>
-Initiation et supports de plusieurs projets en logiciel libre à enjeux sociaux pour des associations de Montréal.<br/>
+Initiation and support of several free software projects with social issues for Montreal associations.<br/>
 <br/>
- - Introduction au monde du logiciel libre et de l'open-source<br/>
- - Intégration aux bonnes pratiques du logiciel libre<br/>
- - Les différents moyens de contribuer<br/>
- - Aide au développement : Python, Django, PHP, SQL, GIT, JS<br/>
- - Intégrations aux outils de CI : Travis, Coveralls, Waffle<br/>
+ - Introduction to the world of free software and open source<br/>
+ - Introduction to free software best practices<br/>
+ - Introduction to the different ways to contribute<br/>
+ - Help volunteer to develop with Python, Django, PHP, SQL, GIT, JS<br/>
+ - Integrations with CI tools: Travis, Coveralls, Waffle<br/>
 <br/>
-Promotion de l'entité auprès de partenaires d'affaires<br/>
-Participation à des groupes de Meetups<br/>
-Organisation d'événement collaboratif (Hacknight, journée de contribution, rencontre avec le client)<br/>"
+Promotion of the entity to business partners<br/>
+Participation in Meetup Groups<br/>
+Organization of collaborative event (Hacknight, contribution day, meeting with the client)<br/>"
 - experience:
-  role: Consultant développement logiciel
-  time: Janvier 2016 - Avril 2016
+  role: Software consultat
+  time: January 2016 - April 2016
   company: Centech (ÉTS), Montréal
-  details: "Mentorat d'un étudiant dans le cadre de son stage au Centech.<br/>
-Analyse des besoins du client et formulation de solution.<br/>
-Revue de code et améliorations continue.<br/>
-Analyse et conception d'interface utilisateurs.<br/>"
+  details: "Mentoring of a student as part of his internship at Centech.<br/>
+Customer Needs Analysis and Solution Formulation.<br/>
+Code Review and Continuous Improvements.<br/>
+User interface analysis and design.<br/>"

@@ -1,10 +1,10 @@
-intro: "Voici une liste de projet libre que je maintiens ou que j'ai développé dans le passé."
+intro: "Here is a list of free software project that I maintain or have developed in the past."
 projects:
   - project:
     title: Volontaria
-    link: "http://volontaria.github.io"
-    tagline: "Volontaria est une plateforme web en logiciel libre permettant aux organisations de simplifier l'implication de leurs bénévoles et la gestion de ces derniers. La plateforme permet entre autres de fournir des plages horaires ou les bénévoles peuvent s'inscrire afin de soutenir les efforts de l'organisation."
+    link: "https://www.fjnr.ca/use-case/nousrire"
+    tagline: "Volontaria is a free software web-platform that allows organizations to simplify the involvement and management of their volunteers. The platform allows, among other things, to provide time slots where volunteers can register to support the efforts of the organization."
   - project:
-    title: Sous-Chef
+    title: Sous-Chef [Retired]
     link: "https://github.com/savoirfairelinux/sous-chef"
-    tagline: "Sous-Chef est une plateforme web en logiciel libre aidant les organisations a planifier et livrer des repas ainsi qu'a gérer les dossiers clients."
+    tagline: "Sous-Chef is a free software web platform that helps organizations plan and deliver meals and manage customer files."

@@ -1,14 +1,14 @@
 - education:
-  degree: Baccalauréat génie logiciel
-  university: École de technologie supérieure
+  degree: Bachelor of Software Engineering
+  university: École de technologie supérieure, Montréal, Canada
   time: 2014 - 2018
   details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
   elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
   magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
   pellentesque eu, pretium quis, sem."
 - education:
-  degree: DUT Réseaux et Télécommunications
-  university: Université Joseph Fourier (Grenoble I)
+  degree: DUT Networks and Telecommunications
+  university: Université Joseph Fourier, Grenoble 1, France
   time: 2012 - 2014
   details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
   elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et

@@ -1,21 +1,30 @@
 - skill:
   name: Python & Django
-  level: 98%
+  level: 100%
 - skill:
   name: Django Rest Framework
-  level: 98%
-- skill:
-  name: Gestion scrum
-  level: 98%
-- skill:
-  name: HTML5 & CSS
-  level: 80%
-- skill:
-  name: GNU/Linux
-  level: 75%
+  level: 100%
 - skill:
   name: Angular.io
-  level: 60%
+  level: 90%
+- skill:
+  name: HTML5 / CSS3 / SCSS
+  level: 100%
+- skill:
+  name: Gestion scrum
+  level: 90%
+- skill:
+  name: GNU/Linux
+  level: 85%
 - skill:
   name: Ionic
   level: 55%
+- skill:
+  name: AWS
+  level: 70%
+- skill:
+  name: GIT
+  level: 95%
+- skill:
+  name: Jekyll
+  level: 40%

@@ -15,10 +15,11 @@ style: styles-5
 
 #Profile information
 name: Noël Rignon
-tagline: Développeur Full Stack
+tagline: Full Stack Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: "J'ai eu la chance de développer un large réseau et de faire valoriser mes compétences personnelles et techniques au travers de différents postes de supervision et de direction dans des entreprises de taille variées. Je suis aujourd'hui très à l'aise dans le fait de m'engager dans des projets d'envergure ou je peux donner libre cours à mes compétences pluridisciplinaires en analyse de risque, en analyse de besoin, en architecture, en conception et même en supervision d'équipe.<br/><br/>
-J'aime évoluer dans des milieux agiles ayant une grande conscientisation quant à la qualité des produits développés et aux démarches d'amélioration continue et je me plais énormément à intégrer ces concepts dans des entreprises jeunes qui ne bénéficient que d'une marge de temps et de compétences étroite. Je cherche des milieux innovant et m'offrant des défis personnels nombreux pour me surpasser."
+summary: "I had the chance to develop a wide network and to enhance my personal and technical skills through different positions of supervision and management in companies of various sizes. Today, I am very comfortable to be part of major projects where I can give free rein to my multidisciplinary skills in risk analysis, needs analysis, architecture, design and even in team supervision."
+summary_2: "I like to evolve in agile environments with a great awareness of the quality of products developed and continuous improvement initiatives and I really like to integrate these concepts in young companies that only have a limited time and narrow skills. I am looking for innovative backgrounds and offering myself many personal challenges to surpass myself."
+summary_3: "You have a project in free software for a non-profit organization ?<br/> Feel free to contact me, it will be a pleasure to help you!"
 
 #sidebar links
 email: rignon.noel@gmail.com
