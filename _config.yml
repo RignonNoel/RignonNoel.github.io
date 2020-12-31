@@ -22,6 +22,7 @@ summary_2: "I like to evolve in agile environments with a great awareness of the
 summary_3: "You have a project in free software for a non-profit organization ?<br/> Feel free to contact me, it will be a pleasure to help you!"
 
 #sidebar links
+sponsor_link: True
 email: rignon.noel@gmail.com
 phone: (514) 980-3840
 website: rignonnoel.com #do not add http://
