@@ -1,13 +1,37 @@
 - experience:
-  role: CEO
-  time: 2020 - Present
-  company: Kraken'J, Grenoble (France)
-  details: "kraken'J is a subsidiary of FJNR"
-- experience:
-  role: Co-Founder & CEO
+  role: Founder & CEO
   time: 2018 - Present
   company: FJNR - 9371-3378 Québec Inc, Montréal
   details: ""
+- experience:
+  role: Research associate
+  time: January 2022 - Present
+  company: Polytechnique - Neuropoly
+  details: "Research associates in a research laboratory specializing in neuroimaging - NeuroPoly.<br/>
+<br/>
+Participation in the development team of SpinalCordToolbox, a complete and open-source library of analysis tools for MRI of the spinal cord (adding code, validating code, participating in team meetings, ..)<br/>
+<br/>
+Contribution to the infrastructure team for the implementation and maintenance of internal tools (password manager, graphics card driver for data modeling, on-boarding newcomers, ...)<br/>"
+- experience:
+  role: Co-founder & CTO
+  time: May 2020 - April 2022
+  company: ExoFreeMotion Inc.
+  details: ""
+- experience:
+  role: Senior Technical ConsultantSenior Technical Consultant
+  time: May 2020 - April 2022
+  company: Canada Health Infoway
+  details: "Collaboration on a data connector project allowing the different Canadian provinces to consolidate medical information from different sources (hospitals, clinics, laboratories) and to provide an easy way for Canadian citizens to request their medical records.<br/>
+<br/>
+  - Installation and configuration of Jenkins servers<br/>
+  - Dockerization of existing project<br/>
+  - Continuous deployment with Amazon ECR<br/>
+  - Implementation of Github application<br/>
+  - Analysis and design of a ToS system to access Github open-source code via LDAP<br/>
+  - FHIR (Fast Healthcare Interoperability Resources) design analysis<br/>
+  - Implementation of automation with Simplifier to make the documentation public<br/>
+<br/>
+Successful completion of a \"Software Security Practitioner - Defending Java\" certification (Security Compass)<br/>"
 - experience:
   role: Lead manager
   time: January 2017 - September 2017
@@ -69,7 +93,7 @@ Promotion of the entity to business partners<br/>
 Participation in Meetup Groups<br/>
 Organization of collaborative event (Hacknight, contribution day, meeting with the client)<br/>"
 - experience:
-  role: Software consultat
+  role: Software consultant
   time: January 2016 - April 2016
   company: Centech (ÉTS), Montréal
   details: "Mentoring of a student as part of his internship at Centech.<br/>
