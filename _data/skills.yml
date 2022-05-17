@@ -23,6 +23,9 @@
   name: AWS
   level: 70%
 - skill:
+  name: GCP
+  level: 85%
+- skill:
   name: GIT
   level: 95%
 - skill:
