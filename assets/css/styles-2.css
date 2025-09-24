@@ -158,6 +158,15 @@ p {
 .sidebar-wrapper .interests-list li:last-child {
   margin-bottom: 0;
 }
+.sidebar-wrapper .talks-list {
+  margin-bottom: 0;
+}
+.sidebar-wrapper .talks-list li {
+  margin-bottom: 10px;
+}
+.sidebar-wrapper .talks-list li:last-child {
+  margin-bottom: 0;
+}
 .main-wrapper {
   background: #fff;
   padding: 60px;
@@ -197,6 +206,7 @@ p {
   margin-bottom: 60px;
 }
 .main-wrapper .experiences-section .item,
+.main-wrapper .talks-section .item,
 .main-wrapper .educations-section .item {
   margin-bottom: 30px;
 }
@@ -206,6 +216,7 @@ p {
   margin-bottom: 2px;
 }
 .main-wrapper .job-title,
+.main-wrapper .title,
 .main-wrapper .degree {
   color: #3F4650;
   font-size: 16px;
@@ -220,6 +231,7 @@ p {
   color: #97AAC3;
 }
 .main-wrapper .company,
+.main-wrapper .event,
 .main-wrapper .university {
   margin-bottom: 10px;
   color: #97AAC3;

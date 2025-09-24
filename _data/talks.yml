@@ -1,0 +1,39 @@
+- talk:
+  title: L’IA self-hosted pour les humains normaux, démo d’un outil clé-en-main
+  link:
+  event: TechnoDrinks de Sherbrooke
+  date: 2025
+- talk:
+  title: Éthique et IA, /dev/mtl
+  link: https://www.youtube.com/watch?v=a6LGbAS9-Qk
+  event: /dev/mtl
+  date: 2024
+- talk:
+  title: Enchaînement d'IA pour transformer vos vidéos avec Python
+  link: https://www.youtube.com/live/3X-IfGEOO7o?feature=shared&t=458
+  event: Montréal Python
+  date: 2024
+- talk:
+  title: Introduction aux clefs GPG
+  link:
+  event: Linux Rencontre Quebec
+  date: 2024
+- talk:
+  title: Appel à la contribution dans la communauté Python
+  link: 
+  event: Montréal Python
+  date: 2023
+- talk:
+  title: Tâche asynchrone avec Celery et Django, Montréal Python
+  link: https://www.youtube.com/live/0DjZaQaG7FA?feature=shared&t=1970
+  event: Montréal Python
+  date: 2022
+- talk:
+  title: Introduction à GIT
+  link: https://www.youtube.com/watch?v=rJ_KpZC5TnU
+  event: IVADO  (Datatrek)
+  date: 2021
+- talk:
+  title: Introduction to Machine Learning
+  event: IVADO  (Datatrek)
+  date: 2021

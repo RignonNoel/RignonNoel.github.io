@@ -1,0 +1,19 @@
+current directory: /home/noel/Documents/code/RignonNoel.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/home/noel/.rvm/rubies/ruby-3.3.4/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/noel/Documents/code/RignonNoel.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250924-116093-xnpjxc sitelibdir\=./.gem.20250924-116093-xnpjxc clean
+
+current directory: /home/noel/Documents/code/RignonNoel.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250924-116093-xnpjxc sitelibdir\=./.gem.20250924-116093-xnpjxc
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/noel/Documents/code/RignonNoel.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250924-116093-xnpjxc sitelibdir\=./.gem.20250924-116093-xnpjxc install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20250924-116093-xnpjxc
+
+current directory: /home/noel/Documents/code/RignonNoel.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250924-116093-xnpjxc sitelibdir\=./.gem.20250924-116093-xnpjxc clean

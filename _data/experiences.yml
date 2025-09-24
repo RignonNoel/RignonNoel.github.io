@@ -4,19 +4,44 @@
   company: FJNR - 9371-3378 Québec Inc, Montréal
   details: ""
 - experience:
+  role: Technology Advisor
+  time: March 2023 - Present
+  company: EmoScienS
+  details: ""
+- experience:
+  role: Secretary General
+  time: January 2024 - Present
+  company: Montreal Python
+  details: ""
+- experience:
   role: Research associate
-  time: January 2022 - Present
+  time: August 2025 - Present
+  company: CIRAIG
+  details: ""
+- experience:
+  role: Co-founder & CTO
+  time: November 2024 - April 2025
+  company: Speech2Health
+  details: ""
+- experience:
+  role: Tech lead
+  time: September 2022 - August 2024
+  company: Uptaste
+  details: ""
+- experience:
+  role: Co-founder & CTO
+  time: May 2020 - April 2022
+  company: ExoFreeMotion Inc.
+  details: ""
+- experience:
+  role: Research associate
+  time: January 2022 - October 2022
   company: Polytechnique - Neuropoly
   details: "Research associates in a research laboratory specializing in neuroimaging - NeuroPoly.<br/>
 <br/>
 Participation in the development team of SpinalCordToolbox, a complete and open-source library of analysis tools for MRI of the spinal cord (adding code, validating code, participating in team meetings, ..)<br/>
 <br/>
 Contribution to the infrastructure team for the implementation and maintenance of internal tools (password manager, graphics card driver for data modeling, on-boarding newcomers, ...)<br/>"
-- experience:
-  role: Co-founder & CTO
-  time: May 2020 - April 2022
-  company: ExoFreeMotion Inc.
-  details: ""
 - experience:
   role: Senior Technical ConsultantSenior Technical Consultant
   time: May 2020 - April 2022

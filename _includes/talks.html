@@ -1,0 +1,31 @@
+{% if site.data.talks %}
+<section class="section talks-section">
+  <h2 class="section-title"><i class="fa fa-microphone"></i>Talks</h2>
+
+  {% for talk in site.data.talks %}
+
+    <div class="item">
+
+      <div class="meta">
+  
+        <div class="upper-row">
+          <h3 class="title">
+            {% if talk.link %}
+              <a href="{{ talk.link }}">{{ talk.title }}</a>
+            {% else %}
+              {{ talk.title }}
+            {% endif %}
+          </h3>
+          <div class="time">{{ talk.date }}</div>
+        </div><!--//upper-row-->
+  
+        <div class="event">{{ talk.event }}</div>
+  
+      </div><!--//meta-->
+  
+    </div><!--//item-->
+
+  {% endfor %}
+
+</section>
+{% endif %}
